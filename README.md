@@ -19,7 +19,8 @@ https://support.apple.com/kb/DL999?viewlocale=zh_CN&locale=zh_CN
 
 ```
 You must install Bonjour Service before you run Aircast on windows.
-You can download Aircast.exe from https://github.com/AirCastLab/aircast-windows/blob/master/AirCast_Setup_1.0.3_x86.exe
+You can download Aircast.exe from 
+https://github.com/AirCastLab/aircast-windows/blob/master/AirCast_Setup_1.0.3_x86.exe
 ```
 
 
